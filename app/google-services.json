@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "977309576255",
+    "firebase_url": "https://pemjar-uts-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pemjar-uts",
+    "storage_bucket": "pemjar-uts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977309576255:android:86a36ee347575fffc69c8a",
+        "android_client_info": {
+          "package_name": "ardiansyah.nasrullah.appx02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977309576255-gtnpqisni0026l96gr8lnonnimkcrbt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKLXVyVCbSS-3oE5_InjVK3s9ZheKUNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977309576255-gtnpqisni0026l96gr8lnonnimkcrbt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977309576255:android:c6fe492b7ab9dc2cc69c8a",
+        "android_client_info": {
+          "package_name": "com.amirafalistia.absensikaryawanuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977309576255-gtnpqisni0026l96gr8lnonnimkcrbt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKLXVyVCbSS-3oE5_InjVK3s9ZheKUNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977309576255-gtnpqisni0026l96gr8lnonnimkcrbt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
